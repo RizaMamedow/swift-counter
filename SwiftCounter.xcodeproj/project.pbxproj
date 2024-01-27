@@ -60,6 +60,7 @@
 				1900E7612B63F07400F5E27C /* SwiftCounterApp.swift */,
 				1900E76F2B63F0B800F5E27C /* MainView.swift */,
 				1900E7652B63F07500F5E27C /* Assets.xcassets */,
+				191E43EF2B6556E100CBE78E /* README.md */,
 				1900E7672B63F07500F5E27C /* Preview Content */,
 			);
 			path = SwiftCounter;
@@ -68,7 +69,6 @@
 		1900E7672B63F07500F5E27C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				191E43EF2B6556E100CBE78E /* README.md */,
 				1900E7682B63F07500F5E27C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
